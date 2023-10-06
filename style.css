@@ -1,0 +1,14 @@
+*{
+    padding: 0%;
+    margin:0%;
+}
+
+#header-div{
+    display: flex;
+}
+.header-img{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
